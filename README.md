@@ -1,4 +1,4 @@
-Szkolenia Python 101
+﻿Szkolenia Python 101 DUPA
 ====================
 
 Niniejsze materiały to dokumentacja i kody źródłowe do szkoleń z
